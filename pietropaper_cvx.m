@@ -1,7 +1,7 @@
 %clc
 %clear all
 %close all
-n=5;
+n=7;
 y=Book1S2(:,1);       %the recorded data from previous runs of the robot
 u=Book1S2(:,2);
 
