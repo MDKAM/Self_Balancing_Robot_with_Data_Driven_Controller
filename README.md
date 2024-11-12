@@ -22,6 +22,8 @@ The self-balancing robot consists of:
 - **MPU-6050 IMU** to measure the robot’s tilt and angular speed.
 - A **custom-built wooden frame** and wheels for stability.
 
+![Robot Image](/20211120_150846.jpg)
+
 ## Repository Structure
 
 - `DataDriven_Controller_n7.ino`: Arduino code uploaded on the Uno Arduino board on the robot for controlling the motors and recording the data.
