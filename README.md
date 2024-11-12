@@ -22,7 +22,8 @@ The self-balancing robot consists of:
 - **MPU-6050 IMU** to measure the robot’s tilt and angular speed.
 - A **custom-built wooden frame** and wheels for stability.
 
-![Robot Image](/20211120_150846.jpg)
+<img src="/20211120_150846.jpg" width="400" alt="Robot Image">
+
 
 ## Repository Structure
 
