@@ -50,6 +50,9 @@ The self-balancing robot consists of:
 
 Experimental results confirm that the data-driven controller has superior performance over a PID controller, especially in handling disturbances and reducing oscillations. [See the project paper for detailed comparisons and performance graphs](https://doi.org/10.1109/ICEE55646.2022.9827321).
 
+## PID Controller
+You can explore the implementation of the PID controller and the MATLAB GUI for remote control of this robot in this [GitHub repository](https://github.com/MDKAM/Self-Balancing-Robot_GUI_MATLAB.git). Additionally, the repository provides detailed information about the hardware structure.
+
 ## Authors
 
 - Mohammad Akhavan, Faculty of Electrical Engineering, Shahid Beheshti University
